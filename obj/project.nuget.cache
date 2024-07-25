@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lp7OHh0ZeLPcqs04QNBNhJJyTtbMwiaPHqtEdhlvdnSdj5APQlHBMAXsx8MHQ329dluY6zFm7i/5t1byVd1ZeQ==",
+  "success": true,
+  "projectFilePath": "c:\\DB_Project_FAV_Git\\FAV_DB-Project_Git\\FAV_DB-Project_Git.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anand Zanjal\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\Anand Zanjal\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

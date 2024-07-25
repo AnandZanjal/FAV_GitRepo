@@ -1,0 +1,10 @@
+c:\DB_Project_FAV_Git\FAV_DB-Project_Git\bin\Debug\FAV_DB-Project_Git.dacpac
+c:\DB_Project_FAV_Git\FAV_DB-Project_Git\bin\Debug\FAV_DB-Project_Git.dll
+c:\DB_Project_FAV_Git\FAV_DB-Project_Git\bin\Debug\FAV_DB-Project_Git.pdb
+c:\DB_Project_FAV_Git\FAV_DB-Project_Git\obj\Debug\FAV_DB-Project_Git.sqlproj.AssemblyReference.cache
+c:\DB_Project_FAV_Git\FAV_DB-Project_Git\obj\Debug\Model.xml
+c:\DB_Project_FAV_Git\FAV_DB-Project_Git\obj\Debug\refactor.xml
+c:\DB_Project_FAV_Git\FAV_DB-Project_Git\obj\Debug\postdeploy.sql
+c:\DB_Project_FAV_Git\FAV_DB-Project_Git\obj\Debug\predeploy.sql
+c:\DB_Project_FAV_Git\FAV_DB-Project_Git\obj\Debug\FAV_DB-Project_Git.dll
+c:\DB_Project_FAV_Git\FAV_DB-Project_Git\obj\Debug\FAV_DB-Project_Git.pdb
